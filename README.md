@@ -12,3 +12,4 @@ Reinforcing the BERT model is the next step and requires clinical trial result d
 
 ## Dataflow 
 Here is a diagram showing the dataflow of the completed project. The greyed-out blocks still need to be completed. 
+![Data flow](bin/Dataflow.png)
